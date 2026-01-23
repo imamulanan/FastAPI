@@ -1,3 +1,5 @@
+# run it in the main.py file for virtual env activation
+
 from fastapi import FastAPI, Path, HTTPException, Query
 import json
 
